@@ -1,0 +1,2371 @@
+[
+    {
+        "name": "Grape",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Grape",
+        "description": "A sweet cluster of fruit.",
+        "season": [
+            "Summer (Summer Seeds and Foraging)\u00a0Fall (Grape Starter)"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "240",
+            "300",
+            "360",
+            "480"
+        ],
+        "gifts": {
+            "love": [
+                "Vincent"
+            ],
+            "like": [
+                "Demetrius",
+                "Elliott",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Leah",
+                "Linus",
+                "Pam",
+                "Robin",
+                "Sandy",
+                "Shane"
+            ],
+            "neutral": [
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Krobus",
+                "Leo",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Abigail",
+                "Haley",
+                "Jas"
+            ],
+            "hate": [
+                "Penny"
+            ]
+        }
+    },
+    {
+        "name": "Clam",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Clam",
+        "description": "Someone lived here once.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "100"
+        ],
+        "gifts": {
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn"
+            ]
+        }
+    },
+    {
+        "name": "Oyster",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/54/Oyster.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Oyster",
+        "description": "Constantly filters water to find food. In the process, it removes dangerous toxins from the environment.",
+        "season": [
+            "All"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Sap",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/73/Sap.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Sap",
+        "description": "A fluid obtained from trees.",
+        "prices": [
+            "2"
+        ],
+        "gifts": {
+            "hate": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Spring Onion",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Spring_Onion",
+        "description": "These grow wild during the spring.",
+        "season": [
+            "Spring"
+        ],
+        "energy": [
+            "13",
+            "18",
+            "23",
+            "33"
+        ],
+        "health": [
+            "5",
+            "8",
+            "10",
+            "14"
+        ],
+        "prices": [
+            "8",
+            "10",
+            "12",
+            "16"
+        ],
+        "gifts": {
+            "like": [
+                "Harvey",
+                "Leah",
+                "Linus"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leo",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Daffodil",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Daffodil",
+        "description": "A traditional spring flower that makes a nice gift.",
+        "season": [
+            "Spring"
+        ],
+        "prices": [
+            "60"
+        ],
+        "gifts": {
+            "love": [
+                "Sandy"
+            ],
+            "like": [
+                "Caroline",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Kent",
+                "Leah",
+                "Linus",
+                "Pam",
+                "Pierre",
+                "Vincent"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin"
+            ],
+            "dislike": [
+                "Dwarf",
+                "Elliott",
+                "Krobus",
+                "Leo",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Jodi"
+            ]
+        }
+    },
+    {
+        "name": "Common Mushroom",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Common_Mushroom",
+        "description": "Slightly nutty, with a good texture.",
+        "season": [
+            "Spring",
+            "Fall"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "80"
+        ],
+        "gifts": {
+            "like": [
+                "Harvey",
+                "Leah",
+                "Linus"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Kent",
+                "Lewis",
+                "Marnie",
+                "Pam",
+                "Penny",
+                "Robin",
+                "Sandy"
+            ],
+            "dislike": [
+                "Caroline",
+                "Dwarf",
+                "Elliott",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Krobus",
+                "Leo",
+                "Maru",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Spice Berry",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Spice_Berry",
+        "description": "It fills the air with a pungent aroma.",
+        "season": [
+            "Summer"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "160"
+        ],
+        "gifts": {
+            "like": [
+                "Demetrius",
+                "Elliott",
+                "Kent",
+                "Leah",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Robin",
+                "Sandy",
+                "Shane"
+            ],
+            "neutral": [
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Krobus",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Abigail",
+                "Haley",
+                "Jas",
+                "Vincent"
+            ],
+            "hate": [
+                "Evelyn",
+                "Harvey",
+                "Jodi"
+            ]
+        }
+    },
+    {
+        "name": "Salmonberry",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Salmonberry",
+        "description": "A spring-time berry with the flavor of the forest.",
+        "season": [
+            "15-18\u00a0Spring"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "5",
+            "6",
+            "7",
+            "10"
+        ],
+        "gifts": {
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Sebastian"
+            ]
+        }
+    },
+    {
+        "name": "Blackberry",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/2/25/Blackberry.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Blackberry",
+        "description": "An early-fall treat.",
+        "season": [
+            "Fall"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "20",
+            "25",
+            "30",
+            "40"
+        ],
+        "gifts": {
+            "like": [
+                "Demetrius",
+                "Elliott",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Leah",
+                "Linus",
+                "Pam",
+                "Robin",
+                "Sandy",
+                "Shane"
+            ],
+            "neutral": [
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Krobus",
+                "Leo",
+                "Lewis",
+                "Marnie",
+                "Penny",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Abigail",
+                "Haley",
+                "Jas",
+                "Maru",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Sea Urchin",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/e/e7/Sea_Urchin.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Sea_Urchin",
+        "description": "A slow-moving, spiny creature that some consider a delicacy.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "320"
+        ],
+        "gifts": {
+            "like": [
+                "Leo"
+            ],
+            "hate": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Winter Root",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Winter_Root",
+        "description": "A starchy tuber.",
+        "season": [
+            "Winter"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "140"
+        ],
+        "gifts": {
+            "like": [
+                "Harvey",
+                "Leah",
+                "Linus"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Kent",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Robin",
+                "Sandy"
+            ],
+            "dislike": [
+                "Caroline",
+                "Dwarf",
+                "Elliott",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Krobus",
+                "Leo",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Coconut",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Coconut",
+        "description": "A seed of the coconut palm. It has many culinary uses.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "200"
+        ],
+        "gifts": {
+            "love": [
+                "Haley",
+                "Linus"
+            ],
+            "like": [
+                "Demetrius",
+                "Elliott",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Leah",
+                "Lewis",
+                "Pam",
+                "Robin",
+                "Sandy",
+                "Shane",
+                "Vincent"
+            ],
+            "neutral": [
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Krobus",
+                "Leo",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Abigail"
+            ]
+        }
+    },
+    {
+        "name": "Holly",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Holly",
+        "description": "The leaves and bright red berries make a popular winter decoration.",
+        "season": [
+            "Winter"
+        ],
+        "prices": [
+            "160"
+        ],
+        "gifts": {
+            "like": [
+                "Harvey",
+                "Leah",
+                "Linus"
+            ],
+            "dislike": [
+                "Caroline",
+                "Dwarf",
+                "Elliott",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Krobus",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Kent",
+                "Leo",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Robin",
+                "Sandy"
+            ]
+        }
+    },
+    {
+        "name": "Crocus",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Crocus",
+        "description": "A flower that can bloom in the winter.",
+        "season": [
+            "Winter"
+        ],
+        "prices": [
+            "60",
+            "75",
+            "90",
+            "120"
+        ],
+        "gifts": {
+            "love": [
+                "Sandy"
+            ],
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Clint",
+                "George",
+                "Sebastian"
+            ]
+        }
+    },
+    {
+        "name": "Cactus Fruit",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Cactus_Fruit",
+        "description": "The sweet fruit of the prickly pear cactus.",
+        "season": [
+            "All"
+        ],
+        "energy": [
+            "75",
+            "105",
+            "135",
+            "195"
+        ],
+        "health": [
+            "33",
+            "47",
+            "60",
+            "87"
+        ],
+        "prices": [
+            "225",
+            "281",
+            "337",
+            "450"
+        ],
+        "gifts": {
+            "love": [
+                "Linus",
+                "Pam",
+                "Sam"
+            ],
+            "like": [
+                "Demetrius",
+                "Elliott",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Leah",
+                "Lewis",
+                "Robin",
+                "Sandy",
+                "Shane"
+            ],
+            "neutral": [
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Krobus",
+                "Leo",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Pierre",
+                "Sebastian",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Abigail",
+                "Haley",
+                "Jas",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Sweet Pea",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Sweet_Pea",
+        "description": "A fragrant summer flower.",
+        "season": [
+            "Summer"
+        ],
+        "prices": [
+            "50",
+            "62",
+            "75",
+            "100"
+        ],
+        "gifts": {
+            "love": [
+                "Sandy"
+            ],
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Clint",
+                "George",
+                "Sebastian"
+            ]
+        }
+    },
+    {
+        "name": "Cockle",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/ad/Cockle.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Cockle",
+        "description": "A common saltwater clam.",
+        "season": [
+            "All"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Magma Cap",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/77/Magma_Cap.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Magma_Cap",
+        "description": "A very rare mushroom that lives next to pools of lava.",
+        "energy": [
+            "175",
+            "245",
+            "315",
+            "455"
+        ],
+        "health": [
+            "78",
+            "110",
+            "141",
+            "204"
+        ],
+        "prices": [
+            "800"
+        ],
+        "gifts": {
+            "like": [
+                "Harvey",
+                "Leah",
+                "Linus"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Kent",
+                "Lewis",
+                "Marnie",
+                "Pam",
+                "Penny",
+                "Robin",
+                "Sandy"
+            ],
+            "dislike": [
+                "Caroline",
+                "Dwarf",
+                "Elliott",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Krobus",
+                "Leo",
+                "Maru",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Ginger",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Ginger",
+        "description": "This sharp, spicy root is said to increase vitality.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "60"
+        ],
+        "gifts": {
+            "like": [
+                "Harvey",
+                "Leah",
+                "Linus"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Kent",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Robin",
+                "Sandy"
+            ],
+            "dislike": [
+                "Caroline",
+                "Dwarf",
+                "Elliott",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Krobus",
+                "Leo",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Leek",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/57/Leek.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Leek",
+        "description": "A tasty relative of the onion.",
+        "season": [
+            "Spring"
+        ],
+        "energy": [
+            "40",
+            "56",
+            "72",
+            "104"
+        ],
+        "health": [
+            "18",
+            "25",
+            "32",
+            "46"
+        ],
+        "prices": [
+            "120"
+        ],
+        "gifts": {
+            "love": [
+                "George"
+            ],
+            "like": [
+                "Harvey",
+                "Leah",
+                "Linus",
+                "Penny"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Emily",
+                "Evelyn",
+                "Gus",
+                "Kent",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Robin",
+                "Sandy"
+            ],
+            "dislike": [
+                "Caroline",
+                "Dwarf",
+                "Elliott",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Krobus",
+                "Leo",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Red Mushroom",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/e/e1/Red_Mushroom.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Red_Mushroom",
+        "description": "A spotted mushroom sometimes found in caves.",
+        "season": [
+            "Summer"
+        ],
+        "prices": [
+            "150"
+        ],
+        "gifts": {
+            "dislike": [
+                "Penny"
+            ],
+            "hate": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Seaweed",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/13/Seaweed.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Seaweed",
+        "description": "It can be used in cooking.",
+        "season": [
+            "All Seasons"
+        ],
+        "energy": [
+            "13",
+            "18",
+            "23",
+            "33"
+        ],
+        "health": [
+            "5",
+            "8",
+            "10",
+            "14"
+        ],
+        "prices": [
+            "40"
+        ],
+        "gifts": {
+            "dislike": [
+                "Leah",
+                "Marnie",
+                "Sam",
+                "Shane"
+            ],
+            "hate": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sandy",
+                "Sebastian",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Cave Carrot",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/34/Cave_Carrot.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Cave_Carrot",
+        "description": "A starchy snack found in caves. It helps miners work longer.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "25"
+        ],
+        "gifts": {
+            "like": [
+                "Dwarf"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Purple Mushroom",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Purple_Mushroom",
+        "description": "A rare mushroom found deep in caves.",
+        "season": [
+            "All"
+        ],
+        "energy": [
+            "125",
+            "175",
+            "225",
+            "325"
+        ],
+        "health": [
+            "56",
+            "78",
+            "101",
+            "146"
+        ],
+        "prices": [
+            "500"
+        ],
+        "gifts": {
+            "love": [
+                "Wizard"
+            ],
+            "like": [
+                "Demetrius",
+                "Harvey",
+                "Leah",
+                "Linus"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Kent",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Robin",
+                "Sandy"
+            ],
+            "dislike": [
+                "Caroline",
+                "Dwarf",
+                "Elliott",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Krobus",
+                "Leo",
+                "Penny",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy"
+            ]
+        }
+    },
+    {
+        "name": "Wild Horseradish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Wild_Horseradish",
+        "description": "A spicy root found in the spring.",
+        "season": [
+            "Spring"
+        ],
+        "energy": [
+            "13",
+            "18",
+            "23",
+            "33"
+        ],
+        "health": [
+            "5",
+            "8",
+            "10",
+            "14"
+        ],
+        "prices": [
+            "100"
+        ],
+        "gifts": {
+            "love": [
+                "Krobus"
+            ],
+            "like": [
+                "Harvey",
+                "Leah",
+                "Linus"
+            ],
+            "neutral": [
+                "Demetrius",
+                "Emily",
+                "Kent",
+                "Maru",
+                "Penny",
+                "Sandy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Elliott",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Jodi",
+                "Leo",
+                "Lewis",
+                "Marnie",
+                "Pam",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Haley",
+                "Jas",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Coral",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/b/b1/Coral.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Coral",
+        "description": "A colony of tiny creatures that clump together to form beautiful structures.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "160"
+        ],
+        "gifts": {
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "George",
+                "Gus",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Harvey"
+            ]
+        }
+    },
+    {
+        "name": "Dandelion",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Dandelion",
+        "description": "Not the prettiest flower, but the leaves make a good salad.",
+        "season": [
+            "Spring"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "80"
+        ],
+        "gifts": {
+            "like": [
+                "Harvey",
+                "Leah",
+                "Linus",
+                "Penny",
+                "Pierre"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Emily",
+                "Evelyn",
+                "Gus",
+                "Kent",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Robin",
+                "Sandy"
+            ],
+            "dislike": [
+                "Caroline",
+                "Dwarf",
+                "Elliott",
+                "Haley",
+                "Jas",
+                "Krobus",
+                "Leo",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "George",
+                "Jodi"
+            ]
+        }
+    },
+    {
+        "name": "Nautilus Shell",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/a4/Nautilus_Shell.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Nautilus_Shell",
+        "description": "An ancient shell.",
+        "season": [
+            "Winter"
+        ],
+        "prices": [
+            "240"
+        ],
+        "gifts": {
+            "like": [
+                "Leo"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Harvey"
+            ]
+        }
+    },
+    {
+        "name": "Fiddlehead Fern",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/4/48/Fiddlehead_Fern.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Fiddlehead_Fern",
+        "description": "The young shoots are an edible specialty.",
+        "season": [
+            "Summer\u00a0All on Ginger Island Jungle and Skull Cavern"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "90",
+            "112",
+            "135",
+            "180"
+        ],
+        "gifts": {
+            "like": [
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Abigail",
+                "Haley",
+                "Jas",
+                "Sam",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Morel",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Morel",
+        "description": "Sought after for its unique nutty flavor.",
+        "season": [
+            "Spring"
+        ],
+        "energy": [
+            "20",
+            "28",
+            "36",
+            "52"
+        ],
+        "health": [
+            "9",
+            "12",
+            "16",
+            "23"
+        ],
+        "prices": [
+            "300"
+        ],
+        "gifts": {
+            "like": [
+                "Harvey",
+                "Leah",
+                "Linus"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Kent",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Robin",
+                "Sandy"
+            ],
+            "dislike": [
+                "Caroline",
+                "Dwarf",
+                "Elliott",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Krobus",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Leo"
+            ]
+        }
+    },
+    {
+        "name": "Crystal Fruit",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/16/Crystal_Fruit.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Crystal_Fruit",
+        "description": "A delicate fruit that pops up from the snow.",
+        "season": [
+            "Winter"
+        ],
+        "energy": [
+            "63",
+            "88",
+            "113",
+            "163"
+        ],
+        "health": [
+            "28",
+            "39",
+            "50",
+            "73"
+        ],
+        "prices": [
+            "300"
+        ],
+        "gifts": {
+            "like": [
+                "Demetrius",
+                "Elliott",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Leah",
+                "Linus",
+                "Pam",
+                "Robin",
+                "Sandy",
+                "Shane"
+            ],
+            "neutral": [
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Krobus",
+                "Leo",
+                "Lewis",
+                "Marnie",
+                "Penny",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Abigail",
+                "Haley",
+                "Jas",
+                "Maru",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Snow Yam",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Snow_Yam",
+        "description": "This little yam was hiding beneath the snow.",
+        "season": [
+            "Winter"
+        ],
+        "energy": [
+            "30",
+            "42",
+            "54",
+            "78"
+        ],
+        "health": [
+            "13",
+            "18",
+            "24",
+            "35"
+        ],
+        "prices": [
+            "200"
+        ],
+        "gifts": {
+            "like": [
+                "Harvey",
+                "Leah",
+                "Linus"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Lewis",
+                "Marnie",
+                "Pam",
+                "Penny",
+                "Robin",
+                "Sandy"
+            ],
+            "dislike": [
+                "Caroline",
+                "Dwarf",
+                "Elliott",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leo",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Maru"
+            ]
+        }
+    },
+    {
+        "name": "Chanterelle",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Chanterelle",
+        "description": "A tasty mushroom with a fruity smell and slightly peppery flavor.",
+        "season": [
+            "Fall"
+        ],
+        "energy": [
+            "75",
+            "105",
+            "135",
+            "195"
+        ],
+        "health": [
+            "33",
+            "47",
+            "60",
+            "87"
+        ],
+        "prices": [
+            "320"
+        ],
+        "gifts": {
+            "like": [
+                "Harvey",
+                "Leah",
+                "Linus"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Kent",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Robin",
+                "Sandy"
+            ],
+            "dislike": [
+                "Caroline",
+                "Dwarf",
+                "Elliott",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Krobus",
+                "Leo",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Dinosaur Egg",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/a1/Dinosaur_Egg.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Dinosaur_Egg",
+        "description": "A giant dino egg... The entire shell is still intact!",
+        "prices": [
+            "700"
+        ],
+        "gifts": {
+            "like": [
+                "Dwarf",
+                "Penny"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Wild Plum",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/3b/Wild_Plum.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Wild_Plum",
+        "description": "Tart and juicy with a pungent aroma.",
+        "season": [
+            "Fall"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "160"
+        ],
+        "gifts": {
+            "like": [
+                "Demetrius",
+                "Elliott",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Leah",
+                "Linus",
+                "Pam",
+                "Robin",
+                "Sandy",
+                "Shane"
+            ],
+            "neutral": [
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Krobus",
+                "Leo",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Abigail",
+                "Haley",
+                "Jas",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Mussel",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/aa/Mussel.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Mussel",
+        "description": "A common bivalve that often lives in clusters.",
+        "season": [
+            "All"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Hazelnut",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Hazelnut",
+        "description": "That's one big hazelnut!",
+        "season": [
+            "Fall"
+        ],
+        "energy": [
+            "30",
+            "42",
+            "54",
+            "78"
+        ],
+        "health": [
+            "13",
+            "18",
+            "24",
+            "35"
+        ],
+        "prices": [
+            "180"
+        ],
+        "gifts": {
+            "like": [
+                "Harvey",
+                "Leah",
+                "Linus"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Kent",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Robin",
+                "Sandy"
+            ],
+            "dislike": [
+                "Caroline",
+                "Dwarf",
+                "Elliott",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Krobus",
+                "Leo",
+                "Pierre",
+                "Sam",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Rainbow Shell",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/3d/Rainbow_Shell.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Rainbow_Shell",
+        "description": "It's a very beautiful shell.",
+        "season": [
+            "Summer"
+        ],
+        "prices": [
+            "600"
+        ],
+        "gifts": {
+            "like": [
+                "Leo"
+            ],
+            "neutral": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Harvey"
+            ]
+        }
+    }
+]

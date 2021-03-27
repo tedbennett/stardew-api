@@ -1,0 +1,259 @@
+[
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/4/4f/Mega_Bomb.png",
+        "name": "Mega Bomb",
+        "id": "mega_bomb",
+        "description": "Generates a powerful explosion. Use with extreme caution.",
+        "ingredients": [
+            {
+                "name": "Gold Ore",
+                "quantity": "4"
+            },
+            {
+                "name": "Solar Essence",
+                "quantity": "1"
+            }
+        ],
+        "recipe_source": "Mining Level 8"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/5c/Hardwood_Fence.png",
+        "name": "Hardwood Fence",
+        "id": "hardwood_fence",
+        "description": "The most durable type of fence.",
+        "ingredients": [
+            {
+                "name": "Hardwood",
+                "quantity": "1"
+            }
+        ],
+        "recipe_source": "Farming Level 6"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/9/90/Iridium_Sprinkler.png",
+        "name": "Iridium Sprinkler",
+        "id": "iridium_sprinkler",
+        "description": "Waters the 24 adjacent tiles every morning.",
+        "ingredients": [
+            {
+                "name": "Gold Bar",
+                "quantity": "1"
+            },
+            {
+                "name": "Iridium Bar",
+                "quantity": "1"
+            }
+        ],
+        "recipe_source": "Farming Level 9"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/7c/Cask.png",
+        "name": "Cask",
+        "id": "cask",
+        "description": "Use in the cellar to age products like wine and cheese.",
+        "ingredients": [
+            {
+                "name": "Wood",
+                "quantity": "20"
+            }
+        ],
+        "recipe_source": "Farmhouse cellar upgrade"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/5d/Tree_Fertilizer.png",
+        "name": "Tree Fertilizer",
+        "id": "tree_fertilizer",
+        "description": "Sprinkle on a wild tree to ensure rapid growth, even in winter. Doesn't work on fruit trees.",
+        "ingredients": [
+            {
+                "name": "Fiber",
+                "quantity": "5"
+            }
+        ],
+        "recipe_source": "Foraging Level 7"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/05/Fiber_Seeds.png",
+        "name": "Fiber Seeds (4)",
+        "id": "fiber_seeds_4",
+        "description": "Plant these in any season. Does not require watering. Harvest with the scythe. Takes 7 days to grow.",
+        "ingredients": [
+            {
+                "name": "Mixed Seeds",
+                "quantity": "1"
+            },
+            {
+                "name": "Sap",
+                "quantity": "5"
+            }
+        ],
+        "recipe_source": "Linus\u00a0(Special Order)"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/9/9b/Crystal_Path.png",
+        "name": "Crystal Path (5)",
+        "id": "crystal_path_5",
+        "description": "Place on the ground to create paths or to spruce up your floors.",
+        "ingredients": [
+            {
+                "name": "Refined Quartz",
+                "quantity": "1"
+            }
+        ],
+        "recipe_source": "Carpenter's Shop for 200g"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/9/92/Crab_Pot.png",
+        "name": "Crab Pot",
+        "id": "crab_pot",
+        "description": "Place it in the water, load it with bait, and check the next day to see if you've caught anything. Works in streams, lakes, and the ocean.",
+        "ingredients": [
+            {
+                "name": "Wood",
+                "quantity": "40"
+            },
+            {
+                "name": "Iron Bar",
+                "quantity": "3"
+            },
+            {
+                "name": "With",
+                "quantity": 1
+            }
+        ],
+        "recipe_source": "Fishing Level 3"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/f/fe/Wedding_Ring.png",
+        "name": "Wedding Ring",
+        "id": "wedding_ring",
+        "description": "An old Zuzu City tradition... It's used to ask for another farmer's hand in marriage.Note: This recipe is available only in Multiplayer.",
+        "ingredients": [
+            {
+                "name": "Iridium Bar",
+                "quantity": "5"
+            }
+        ],
+        "recipe_source": "Traveling Cart for 500g"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/4/4b/Oil_of_Garlic.png",
+        "name": "Oil of Garlic",
+        "id": "oil_of_garlic",
+        "description": "Drink this and weaker monsters will avoid you.",
+        "ingredients": [
+            {
+                "name": "Garlic",
+                "quantity": "10"
+            }
+        ],
+        "recipe_source": "Combat Level 6"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/f/f7/Rain_Totem.png",
+        "name": "Rain Totem",
+        "id": "rain_totem",
+        "description": "Activate to greatly increase the chance for rain tomorrow. Consumed on use.",
+        "ingredients": [
+            {
+                "name": "Hardwood",
+                "quantity": "1"
+            },
+            {
+                "name": "Truffle Oil",
+                "quantity": "1"
+            }
+        ],
+        "recipe_source": "Foraging Level 9"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/17/Jack-O-Lantern.png",
+        "name": "Jack-O-Lantern",
+        "id": "jackolantern",
+        "description": "A whimsical fall decoration.",
+        "ingredients": [
+            {
+                "name": "Pumpkin",
+                "quantity": "1"
+            }
+        ],
+        "recipe_source": "Pierre's stand at Spirit's Eve festival (2,000g)"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/02/Geode_Crusher.png",
+        "name": "Geode Crusher",
+        "id": "geode_crusher",
+        "description": "Breaks geodes open automatically. Requires coal to operate.",
+        "ingredients": [
+            {
+                "name": "Gold Bar",
+                "quantity": "2"
+            },
+            {
+                "name": "Stone",
+                "quantity": "50"
+            }
+        ],
+        "recipe_source": "Clint\u00a0(Special Order)"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/d/dc/Drum_Block.png",
+        "name": "Drum Block",
+        "id": "drum_block",
+        "description": "Plays a drum sound when you walk past.",
+        "ingredients": [
+            {
+                "name": "Stone",
+                "quantity": "10"
+            },
+            {
+                "name": "Copper Ore",
+                "quantity": "2"
+            }
+        ],
+        "recipe_source": "Robin 6-heart event"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/1b/Stone_Chest.png",
+        "name": "Stone Chest",
+        "id": "stone_chest",
+        "description": "A place to store your items.",
+        "ingredients": [
+            {
+                "name": "Stone",
+                "quantity": "50"
+            }
+        ],
+        "recipe_source": "Robin special order"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/72/Dark_Sign.png",
+        "name": "Dark Sign",
+        "id": "dark_sign",
+        "description": "Use an item on this to change what's displayed. The item won't be consumed.",
+        "ingredients": [
+            {
+                "name": "Bat Wing",
+                "quantity": "5"
+            }
+        ],
+        "recipe_source": "Krobus\u00a0(Mail - 3+ )"
+    },
+    {
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/9/91/Cookout_Kit.png",
+        "name": "Cookout Kit",
+        "id": "cookout_kit",
+        "description": "Use this to create a cooking campfire, allowing you to cook on-the-go!",
+        "ingredients": [
+            {
+                "name": "Wood",
+                "quantity": "15"
+            },
+            {
+                "name": "Fiber",
+                "quantity": "10"
+            }
+        ],
+        "recipe_source": "Foraging Level 9"
+    }
+]

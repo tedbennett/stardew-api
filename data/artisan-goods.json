@@ -1,0 +1,1405 @@
+[
+    {
+        "name": "Cheese",
+        "id": "cheese",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/a5/Cheese.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Cheese",
+        "description": "It's your basic cheese.",
+        "energy": [
+            "125",
+            "175",
+            "225",
+            "325"
+        ],
+        "health": [
+            "56",
+            "78",
+            "101",
+            "146"
+        ],
+        "prices": [
+            "230",
+            "287",
+            "345",
+            "460"
+        ],
+        "equipment": "Cheese Press",
+        "processing_time": "200min (3.3h)",
+        "ingredients": [
+            {
+                "name": "Milk",
+                "quantity": "1"
+            },
+            {
+                "name": "Large Milk",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Harvey"
+            ],
+            "hate": [
+                "Jas",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Pale Ale",
+        "id": "pale_ale",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/78/Pale_Ale.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Pale_Ale",
+        "description": "Drink in moderation.",
+        "energy": [
+            "50",
+            "70",
+            "90",
+            "130"
+        ],
+        "health": [
+            "22",
+            "31",
+            "40",
+            "58"
+        ],
+        "equipment": "Keg",
+        "processing_time": "2250m (37.5h)",
+        "ingredients": [
+            {
+                "name": "Hops",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "love": [
+                "Pam"
+            ],
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Jas",
+                "Leo",
+                "Penny",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Mead",
+        "id": "mead",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/84/Mead.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Mead",
+        "description": "A fermented beverage made from honey. Drink in moderation.",
+        "energy": [
+            "75",
+            "105",
+            "135",
+            "195"
+        ],
+        "health": [
+            "33",
+            "47",
+            "60",
+            "87"
+        ],
+        "equipment": "Keg",
+        "processing_time": "10h",
+        "ingredients": [
+            {
+                "name": "Honey",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "love": [
+                "Pam",
+                "Willy"
+            ],
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Wizard"
+            ],
+            "hate": [
+                "Jas",
+                "Leo",
+                "Penny",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Coffee",
+        "id": "coffee",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/e/e9/Coffee.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Coffee",
+        "description": "It smells delicious. This is sure to give you a boost.",
+        "equipment": "Keg",
+        "processing_time": "120m (2h)",
+        "ingredients": [
+            {
+                "name": "Coffee Bean",
+                "quantity": "5"
+            }
+        ],
+        "gifts": {
+            "love": [
+                "Harvey"
+            ],
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "neutral": [
+                "Leo"
+            ],
+            "hate": [
+                "Jas",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Pine Tar",
+        "id": "pine_tar",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/c/ce/Pine_Tar.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Pine_Tar",
+        "description": "A pungent substance derived from pine sap.",
+        "equipment": "Tapper",
+        "ingredients": [
+            {
+                "name": "Pine Tree",
+                "quantity": 1
+            }
+        ],
+        "gifts": {
+            "like": [
+                "Maru"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Truffle Oil",
+        "id": "truffle_oil",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/3d/Truffle_Oil.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Truffle_Oil",
+        "description": "A gourmet cooking ingredient.",
+        "equipment": "Oil Maker",
+        "processing_time": "360m (6h)",
+        "ingredients": [
+            {
+                "name": "Truffle",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "love": [
+                "Harvey"
+            ],
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Jas",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Oak Resin",
+        "id": "oak_resin",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/4/40/Oak_Resin.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Oak_Resin",
+        "description": "A sticky, fragrant substance derived from oak sap.",
+        "equipment": "Tapper",
+        "ingredients": [
+            {
+                "name": "Oak Tree",
+                "quantity": 1
+            }
+        ],
+        "gifts": {
+            "like": [
+                "Maru"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Wine",
+        "id": "wine",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/6/69/Wine.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Wine",
+        "description": "Drink in moderation.",
+        "energy": [
+            "50",
+            "70",
+            "90",
+            "130"
+        ],
+        "health": [
+            "22",
+            "31",
+            "40",
+            "58"
+        ],
+        "equipment": "Keg",
+        "processing_time": "10,000m (\u22487d)",
+        "ingredients": [
+            {
+                "name": "Any Fruit",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "love": [
+                "Harvey",
+                "Leah"
+            ],
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Jas",
+                "Leo",
+                "Penny",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Maple Syrup",
+        "id": "maple_syrup",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/6/6a/Maple_Syrup.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Maple_Syrup",
+        "description": "A sweet syrup with a unique flavor.",
+        "equipment": "Tapper",
+        "ingredients": [
+            {
+                "name": "Maple Tree",
+                "quantity": 1
+            }
+        ],
+        "gifts": {
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Maru"
+            ]
+        }
+    },
+    {
+        "name": "Pi\u00f1a Colada",
+        "id": "pi\u00f1a_colada",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/12/Pi%C3%B1a_Colada.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Pi\u00f1a_Colada",
+        "description": "Drink in moderation.",
+        "gifts": {
+            "love": [
+                "Pam"
+            ],
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Jas",
+                "Leo",
+                "Penny",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Goat Cheese",
+        "id": "goat_cheese",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/c/c8/Goat_Cheese.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Goat_Cheese",
+        "description": "Soft cheese made from goat's milk.",
+        "energy": [
+            "125",
+            "175",
+            "225",
+            "325"
+        ],
+        "health": [
+            "56",
+            "78",
+            "101",
+            "146"
+        ],
+        "prices": [
+            "400",
+            "500",
+            "600",
+            "800"
+        ],
+        "equipment": "Cheese Press",
+        "processing_time": "200m (\u22483h)",
+        "ingredients": [
+            {
+                "name": "Goat Milk",
+                "quantity": "1"
+            },
+            {
+                "name": "Large Goat Milk",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "love": [
+                "Leah",
+                "Robin"
+            ],
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Harvey"
+            ],
+            "hate": [
+                "Jas",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Duck Mayonnaise",
+        "id": "duck_mayonnaise",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/2/23/Duck_Mayonnaise.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Duck_Mayonnaise",
+        "description": "It's a rich, yellow mayonnaise.",
+        "equipment": "Mayonnaise Machine",
+        "processing_time": "3h",
+        "ingredients": [
+            {
+                "name": "Duck Egg",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "like": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sandy",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Caroline"
+            ],
+            "hate": [
+                "Jas",
+                "Sam",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    null,
+    {
+        "name": "Mayonnaise",
+        "id": "mayonnaise",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/4/4e/Mayonnaise.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Mayonnaise",
+        "description": "It looks spreadable.",
+        "prices": [
+            "190",
+            "237",
+            "285",
+            "380"
+        ],
+        "equipment": "Mayonnaise Machine",
+        "processing_time": "3h",
+        "ingredients": [
+            {
+                "name": "Egg",
+                "quantity": "1"
+            },
+            {
+                "name": "Large Egg",
+                "quantity": "1"
+            },
+            {
+                "name": "Golden Egg",
+                "quantity": "1"
+            },
+            {
+                "name": "Ostrich Egg",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "like": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sandy",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "dislike": [
+                "Caroline"
+            ],
+            "hate": [
+                "Jas",
+                "Sam",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Beer",
+        "id": "beer",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Beer",
+        "description": "Drink in moderation.",
+        "energy": [
+            "50",
+            "70",
+            "90",
+            "130"
+        ],
+        "health": [
+            "22",
+            "31",
+            "40",
+            "58"
+        ],
+        "equipment": "Keg",
+        "processing_time": "1750m (\u224829h)",
+        "ingredients": [
+            {
+                "name": "Wheat",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "love": [
+                "Pam",
+                "Shane"
+            ],
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Jas",
+                "Leo",
+                "Penny",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Oil",
+        "id": "oil",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/06/Oil.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Oil",
+        "description": "All purpose cooking oil.",
+        "equipment": "Oil Maker",
+        "processing_time": "Varies by ingredient",
+        "ingredients": [
+            {
+                "name": "Corn",
+                "quantity": "1"
+            },
+            {
+                "name": "Sunflower",
+                "quantity": "1"
+            },
+            {
+                "name": "Sunflower Seeds",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Leo"
+            ]
+        }
+    },
+    {
+        "name": "Caviar",
+        "id": "caviar",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/89/Caviar.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Caviar",
+        "description": "The cured roe of a sturgeon fish. Considered to be a luxurious delicacy!",
+        "equipment": "Preserves Jar",
+        "processing_time": "6000m",
+        "ingredients": [
+            {
+                "name": "Sturgeon Roe",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Jas",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Green Tea",
+        "id": "green_tea",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/8f/Green_Tea.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Green_Tea",
+        "description": "A pleasant, energizing beverage made from lightly processed tea leaves.",
+        "equipment": "Keg",
+        "processing_time": "180m (3h)",
+        "ingredients": [
+            {
+                "name": "Tea Leaves",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "love": [
+                "Caroline",
+                "Lewis"
+            ],
+            "like": [
+                "Abigail",
+                "Alex",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Jas",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Cloth",
+        "id": "cloth",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/51/Cloth.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Cloth",
+        "description": "A bolt of fine wool cloth.",
+        "equipment": "Loom",
+        "processing_time": "240m (\u22484h)",
+        "ingredients": [
+            {
+                "name": "Wool",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "love": [
+                "Emily"
+            ],
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Jas",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Honey",
+        "id": "honey",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/c/c6/Honey.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Honey",
+        "description": "It's a sweet syrup produced by bees.",
+        "equipment": "Bee House",
+        "processing_time": "6100m (\u22484d)",
+        "ingredients": [
+            {
+                "name": "Various flowers",
+                "quantity": 1
+            }
+        ],
+        "gifts": {
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Maru",
+                "Sebastian"
+            ]
+        }
+    },
+    {
+        "name": "Void Mayonnaise",
+        "id": "void_mayonnaise",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/f/f3/Void_Mayonnaise.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Void_Mayonnaise",
+        "description": "A thick, black paste that smells like burnt hair.",
+        "equipment": "Mayonnaise Machine",
+        "processing_time": "3h",
+        "ingredients": [
+            {
+                "name": "Void Egg",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "love": [
+                "Krobus"
+            ],
+            "hate": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Aged Roe",
+        "id": "aged_roe",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/0e/Aged_Roe.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Aged_Roe",
+        "description": "Fish eggs aged in salt to bring out the flavor.",
+        "equipment": "Preserves Jar",
+        "processing_time": "4000m (3-4 days)",
+        "ingredients": [
+            {
+                "name": "Roe",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Jas",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Dinosaur Mayonnaise",
+        "id": "dinosaur_mayonnaise",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/c/c3/Dinosaur_Mayonnaise.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Dinosaur_Mayonnaise",
+        "description": "It's thick and creamy, with a vivid green hue. It smells like grass and leather.",
+        "equipment": "Mayonnaise Machine",
+        "processing_time": "3h",
+        "ingredients": [
+            {
+                "name": "Dinosaur Egg",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Jas",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    },
+    {
+        "name": "Juice",
+        "id": "juice",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/f/f1/Juice.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Juice",
+        "description": "A sweet, nutritious beverage.",
+        "equipment": "Keg",
+        "processing_time": "6000m (\u22484d)",
+        "ingredients": [
+            {
+                "name": "Any vegetable",
+                "quantity": "1"
+            }
+        ],
+        "gifts": {
+            "like": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ],
+            "hate": [
+                "Jas",
+                "Sebastian",
+                "Vincent"
+            ]
+        }
+    }
+]

@@ -1,0 +1,5753 @@
+[
+    {
+        "name": "Tiger Trout",
+        "id": "tiger_trout",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/01/Tiger_Trout.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Tiger_Trout",
+        "description": "A rare hybrid trout that cannot bear offspring of its own.",
+        "location": [
+            "River"
+        ],
+        "time": [
+            "6am \u2013 7pm"
+        ],
+        "season": [
+            "Fall",
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "60",
+        "size": "10-21",
+        "xp": [
+            "23",
+            "26",
+            "29",
+            "35"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "150",
+            "187",
+            "225",
+            "300"
+        ],
+        "gifts": {
+            "like": [
+                "Willy"
+            ],
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Lingcod",
+        "id": "lingcod",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/87/Lingcod.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Lingcod",
+        "description": "A fearsome predator that will eat almost anything it can cram into its mouth.",
+        "location": [
+            "River",
+            "Mountain Lake"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "85",
+        "size": "30-51",
+        "xp": [
+            "31",
+            "34",
+            "37",
+            "43"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "120",
+            "150",
+            "180",
+            "240"
+        ],
+        "gifts": {
+            "like": [
+                "Willy"
+            ],
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Smallmouth Bass",
+        "id": "smallmouth_bass",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/a5/Smallmouth_Bass.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Smallmouth_Bass",
+        "description": "A freshwater fish that is very sensitive to pollution.",
+        "location": [
+            "Town River",
+            "Forest Pond"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "Spring",
+            "Fall"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "28",
+        "size": "12-25",
+        "xp": [
+            "12",
+            "15",
+            "18",
+            "24"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "50",
+            "62",
+            "75",
+            "100"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Squid",
+        "id": "squid",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/81/Squid.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Squid",
+        "description": "A deep sea creature that can grow to enormous size.",
+        "location": [
+            "Ocean"
+        ],
+        "time": [
+            "6pm \u2013 2am"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "75",
+        "size": "12-49",
+        "xp": [
+            "28",
+            "31",
+            "34",
+            "40"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "80",
+            "100",
+            "120",
+            "160"
+        ],
+        "gifts": {
+            "like": [
+                "Elliott"
+            ],
+            "neutral": [
+                "Demetrius",
+                "Leo",
+                "Linus",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pam",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Snail",
+        "id": "snail",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Snail",
+        "description": "A wide-ranging mollusc that lives in a spiral shell.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "65"
+        ],
+        "gifts": {
+            "love": [
+                "Vincent"
+            ],
+            "hate": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Scorpion Carp",
+        "id": "scorpion_carp",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/76/Scorpion_Carp.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Scorpion_Carp",
+        "description": "It's like a regular carp but with a sharp stinger.",
+        "location": [
+            "The Desert"
+        ],
+        "time": [
+            "6am \u2013 8pm"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "90",
+        "size": "12-33",
+        "xp": [
+            "33",
+            "36",
+            "39",
+            "45"
+        ],
+        "prices": [
+            "150",
+            "187",
+            "225",
+            "300"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Carp",
+        "id": "carp",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/a8/Carp.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Carp",
+        "description": "A common pond fish.",
+        "location": [
+            "Mountain Lake",
+            "Secret Woods",
+            "The Sewers",
+            "Mutant Bug Lair"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "15",
+        "size": "15-51",
+        "xp": [
+            "8",
+            "11",
+            "14",
+            "20"
+        ],
+        "energy": [
+            "13",
+            "18",
+            "23",
+            "33"
+        ],
+        "health": [
+            "5",
+            "8",
+            "10",
+            "14"
+        ],
+        "prices": [
+            "30",
+            "37",
+            "45",
+            "60"
+        ],
+        "gifts": {
+            "hate": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Demetrius",
+                "Dwarf",
+                "Elliott",
+                "Emily",
+                "Evelyn",
+                "George",
+                "Gus",
+                "Haley",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Leo",
+                "Lewis",
+                "Linus",
+                "Marnie",
+                "Maru",
+                "Pam",
+                "Penny",
+                "Pierre",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Sebastian",
+                "Shane",
+                "Vincent",
+                "Willy",
+                "Wizard"
+            ]
+        }
+    },
+    {
+        "name": "Legend II",
+        "id": "legend_ii",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/7a/Legend_II.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Legend_II",
+        "description": "The successor to the original Legend.",
+        "location": [
+            "Mountain Lake"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "110",
+        "xp": [
+            "39",
+            "42",
+            "45",
+            "51"
+        ],
+        "energy": [
+            "500",
+            "700",
+            "900",
+            "1300"
+        ],
+        "health": [
+            "225",
+            "315",
+            "405",
+            "585"
+        ],
+        "prices": [
+            "5,000",
+            "6,250",
+            "7,500",
+            "10,000"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Albacore",
+        "id": "albacore",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/e/e1/Albacore.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Albacore",
+        "description": "Prefers temperature \"edges\" where cool and warm water meet.",
+        "location": [
+            "Ocean"
+        ],
+        "time": [
+            "6am \u2013 11am",
+            "6pm \u2013 2am"
+        ],
+        "season": [
+            "Fall",
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "60",
+        "size": "20-41",
+        "xp": [
+            "23",
+            "26",
+            "29",
+            "35"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "75",
+            "93",
+            "112",
+            "150"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Shad",
+        "id": "shad",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/e/ef/Shad.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Shad",
+        "description": "Lives in a school at sea, but returns to the rivers to spawn.",
+        "location": [
+            "River"
+        ],
+        "time": [
+            "9am \u2013 2am"
+        ],
+        "season": [
+            "Spring",
+            "Summer",
+            "Fall"
+        ],
+        "weather": [
+            "Rain"
+        ],
+        "difficulty": "45",
+        "size": "20-49",
+        "xp": [
+            "18",
+            "21",
+            "24",
+            "30"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "60",
+            "75",
+            "90",
+            "120"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Periwinkle",
+        "id": "periwinkle",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/1d/Periwinkle.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Periwinkle",
+        "description": "A tiny freshwater snail that lives in a blue shell.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "20"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Radioactive Carp",
+        "id": "radioactive_carp",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/57/Radioactive_Carp.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Radioactive_Carp",
+        "description": "A carp that spent one too many years in toxic sludge.",
+        "location": [
+            "The Sewers"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "80",
+        "xp": [
+            "29",
+            "32",
+            "35",
+            "41"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "1,000",
+            "1,250",
+            "1,500",
+            "2,000"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Midnight Carp",
+        "id": "midnight_carp",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/33/Midnight_Carp.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Midnight_Carp",
+        "description": "This shy fish only feels comfortable at night.",
+        "location": [
+            "Mountain Lake",
+            "Forest Pond",
+            "Ginger Island North & West (freshwater)"
+        ],
+        "time": [
+            "10pm \u2013 2am"
+        ],
+        "season": [
+            "Fall",
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "55",
+        "size": "12-53",
+        "xp": [
+            "21",
+            "24",
+            "27",
+            "33"
+        ],
+        "energy": [
+            "50",
+            "70",
+            "90",
+            "130"
+        ],
+        "health": [
+            "22",
+            "31",
+            "40",
+            "58"
+        ],
+        "prices": [
+            "150",
+            "187",
+            "225",
+            "300"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Pike",
+        "id": "pike",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/31/Pike.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Pike",
+        "description": "A freshwater fish that's difficult to catch.",
+        "location": [
+            "River",
+            "Forest Pond"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "Summer",
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "60",
+        "size": "15-61",
+        "xp": [
+            "23",
+            "26",
+            "29",
+            "35"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "100",
+            "125",
+            "150",
+            "200"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Perch",
+        "id": "perch",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/4/43/Perch.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Perch",
+        "description": "A freshwater fish of the winter.",
+        "location": [
+            "River",
+            "Mountain Lake",
+            "Forest Pond"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "35",
+        "size": "10-25",
+        "xp": [
+            "14",
+            "17",
+            "20",
+            "26"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "55",
+            "68",
+            "82",
+            "110"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Bullhead",
+        "id": "bullhead",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/d/db/Bullhead.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Bullhead",
+        "description": "A relative of the catfish that eats a variety of foods off the lake bottom.",
+        "location": [
+            "Mountain Lake"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "46",
+        "size": "12-31",
+        "xp": [
+            "18",
+            "21",
+            "24",
+            "30"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "75",
+            "93",
+            "112",
+            "150"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Eel",
+        "id": "eel",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/9/91/Eel.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Eel",
+        "description": "A long, slippery little fish.",
+        "location": [
+            "Ocean"
+        ],
+        "time": [
+            "4pm \u2013 2am"
+        ],
+        "season": [
+            "Spring",
+            "Fall"
+        ],
+        "weather": [
+            "Rain"
+        ],
+        "difficulty": "70",
+        "size": "12-81",
+        "xp": [
+            "26",
+            "29",
+            "32",
+            "38"
+        ],
+        "energy": [
+            "30",
+            "42",
+            "54",
+            "78"
+        ],
+        "health": [
+            "13",
+            "18",
+            "24",
+            "35"
+        ],
+        "prices": [
+            "85",
+            "106",
+            "127",
+            "170"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Chub",
+        "id": "chub",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/b/bd/Chub.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Chub",
+        "description": "A common freshwater fish known for its voracious appetite.",
+        "location": [
+            "Mountain Lake",
+            "Forest River"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "35",
+        "size": "12-25",
+        "xp": [
+            "14",
+            "17",
+            "20",
+            "26"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "50",
+            "62",
+            "75",
+            "100"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Tilapia",
+        "id": "tilapia",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/73/Tilapia.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Tilapia",
+        "description": "A primarily vegetarian fish that prefers warm water.",
+        "location": [
+            "Ocean",
+            "Ginger Island"
+        ],
+        "time": [
+            "6am \u2013 2pm"
+        ],
+        "season": [
+            "Summer",
+            "Fall"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "50",
+        "size": "11-31",
+        "xp": [
+            "19",
+            "22",
+            "25",
+            "31"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "75",
+            "93",
+            "112",
+            "150"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Void Salmon",
+        "id": "void_salmon",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/ad/Void_Salmon.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Void_Salmon",
+        "description": "A salmon, twisted by void energy. The fresh meat is jet black, but rapidly turns pink when exposed to air.",
+        "location": [
+            "Witch's Swamp"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "80",
+        "size": "24-66",
+        "xp": [
+            "29",
+            "32",
+            "35",
+            "41"
+        ],
+        "energy": [
+            "63",
+            "88",
+            "113",
+            "163"
+        ],
+        "health": [
+            "28",
+            "39",
+            "50",
+            "73"
+        ],
+        "prices": [
+            "150",
+            "187",
+            "225",
+            "300"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Cockle",
+        "id": "cockle",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/ad/Cockle.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Cockle",
+        "description": "A common saltwater clam.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "50",
+            "62",
+            "75",
+            "100"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Crab",
+        "id": "crab",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/6/63/Crab.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Crab",
+        "description": "A marine crustacean with two powerful pincers.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "100"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Halibut",
+        "id": "halibut",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/02/Halibut.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Halibut",
+        "description": "A flat fish that lives on the ocean floor.",
+        "location": [
+            "Ocean"
+        ],
+        "time": [
+            "6am \u2013 11am",
+            "7pm \u2013 2am"
+        ],
+        "season": [
+            "Spring",
+            "Summer",
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "50",
+        "size": "10-34",
+        "xp": [
+            "19",
+            "22",
+            "25",
+            "31"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "80",
+            "100",
+            "120",
+            "160"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Catfish",
+        "id": "catfish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/9/99/Catfish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Catfish",
+        "description": "An uncommon fish found in streams.",
+        "location": [
+            "River",
+            "Secret Woods",
+            "Witch's Swamp"
+        ],
+        "time": [
+            "6am - 12am"
+        ],
+        "season": [
+            "Spring",
+            "Fall\nSecret Woods/Witch's Swamp:\n\u00a0Spring",
+            "Summer",
+            "Fall"
+        ],
+        "weather": [
+            "Rain"
+        ],
+        "difficulty": "75",
+        "size": "12-73",
+        "xp": [
+            "28",
+            "31",
+            "34",
+            "40"
+        ],
+        "energy": [
+            "50",
+            "70",
+            "90",
+            "130"
+        ],
+        "health": [
+            "22",
+            "31",
+            "40",
+            "58"
+        ],
+        "prices": [
+            "200",
+            "250",
+            "300",
+            "400"
+        ],
+        "gifts": {
+            "love": [
+                "Willy"
+            ],
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Flounder",
+        "id": "flounder",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/85/Flounder.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Flounder",
+        "description": "It lives on the bottom, so both eyes are on top of its head.",
+        "location": [
+            "Ocean",
+            "Ginger Island"
+        ],
+        "time": [
+            "6am \u2013 8pm"
+        ],
+        "season": [
+            "Spring",
+            "Summer"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "50",
+        "size": "4-17",
+        "xp": [
+            "19",
+            "22",
+            "25",
+            "31"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "100",
+            "125",
+            "150",
+            "200"
+        ],
+        "gifts": {
+            "like": [
+                "Sebastian"
+            ],
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Octopus",
+        "id": "octopus",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Octopus",
+        "description": "A mysterious and intelligent creature.",
+        "location": [
+            "Ocean",
+            "Ginger Island"
+        ],
+        "time": [
+            "6am \u2013 1pm"
+        ],
+        "season": [
+            "Summer"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "95",
+        "size": "12-49",
+        "xp": [
+            "34",
+            "37",
+            "40",
+            "46"
+        ],
+        "prices": [
+            "150",
+            "187",
+            "225",
+            "300"
+        ],
+        "gifts": {
+            "love": [
+                "Willy"
+            ],
+            "like": [
+                "Elliott"
+            ],
+            "neutral": [
+                "Demetrius",
+                "Leo",
+                "Linus",
+                "Sebastian"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pam",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Salmon",
+        "id": "salmon",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/e/e0/Salmon.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Salmon",
+        "description": "Swims upstream to lay its eggs.",
+        "location": [
+            "River"
+        ],
+        "time": [
+            "6am \u2013 7pm"
+        ],
+        "season": [
+            "Fall"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "50",
+        "size": "24-66",
+        "xp": [
+            "19",
+            "22",
+            "25",
+            "31"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "75",
+            "93",
+            "112",
+            "150"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Mussel",
+        "id": "mussel",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/aa/Mussel.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Mussel",
+        "description": "A common bivalve that often lives in clusters.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "30",
+            "37",
+            "45",
+            "60"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Walleye",
+        "id": "walleye",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/05/Walleye.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Walleye",
+        "description": "A freshwater fish caught at night.",
+        "location": [
+            "River",
+            "Mountain Lake",
+            "Forest Pond",
+            "Forest Farm Pond"
+        ],
+        "time": [
+            "12pm \u2013 2am"
+        ],
+        "season": [
+            "Fall",
+            "Winter with Rain Totem"
+        ],
+        "weather": [
+            "Rain"
+        ],
+        "difficulty": "45",
+        "size": "10-41",
+        "xp": [
+            "18",
+            "21",
+            "24",
+            "30"
+        ],
+        "energy": [
+            "30",
+            "42",
+            "54",
+            "78"
+        ],
+        "health": [
+            "13",
+            "18",
+            "24",
+            "35"
+        ],
+        "prices": [
+            "105",
+            "131",
+            "157",
+            "210"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Slimejack",
+        "id": "slimejack",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/34/Slimejack.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Slimejack",
+        "description": "He's coated in a very thick layer of slime. He keeps slipping out of your hands!",
+        "location": [
+            "Mutant Bug Lair"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "55",
+        "size": "8-26",
+        "xp": [
+            "21",
+            "24",
+            "27",
+            "33"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "100",
+            "125",
+            "150",
+            "200"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Midnight Squid",
+        "id": "midnight_squid",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/83/Midnight_Squid.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Midnight_Squid",
+        "description": "A strange and mysterious denizen of the ocean's twilight depths.",
+        "location": [
+            "Submarine at Night Market"
+        ],
+        "time": [
+            "Anytime during",
+            "Night Market",
+            "(5pm - 2am)"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "55",
+        "size": "8-20 [1]",
+        "xp": [
+            "21",
+            "24",
+            "27",
+            "33"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "100",
+            "125",
+            "150",
+            "200"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Sturgeon",
+        "id": "sturgeon",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/4/42/Sturgeon.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Sturgeon",
+        "description": "An ancient bottom-feeder with a dwindling population. Females can live up to 150 years.",
+        "location": [
+            "Mountain lake"
+        ],
+        "time": [
+            "6am \u2013 7pm"
+        ],
+        "season": [
+            "Summer",
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "78",
+        "size": "12-61",
+        "xp": [
+            "29",
+            "32",
+            "35",
+            "41"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "200",
+            "250",
+            "300",
+            "400"
+        ],
+        "gifts": {
+            "love": [
+                "Willy"
+            ],
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Woodskip",
+        "id": "woodskip",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/9/97/Woodskip.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Woodskip",
+        "description": "A very sensitive fish that can only live in pools deep in the forest.",
+        "location": [
+            "Secret Woods",
+            "Forest Farm"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "50",
+        "size": "11-31",
+        "xp": [
+            "19",
+            "22",
+            "25",
+            "31"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "75",
+            "93",
+            "112",
+            "150"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Blobfish",
+        "id": "blobfish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/7f/Blobfish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Blobfish",
+        "description": "This odd creature floats above the ocean floor, consuming any edible material in its path.",
+        "location": [
+            "Submarine at Night Market"
+        ],
+        "time": [
+            "Anytime during",
+            "Night Market",
+            "(5pm - 2am)"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "75",
+        "size": "8-20 [1]",
+        "xp": [
+            "28",
+            "31",
+            "34",
+            "40"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "500",
+            "625",
+            "750",
+            "1,000"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Red Snapper",
+        "id": "red_snapper",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/d/d3/Red_Snapper.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Red_Snapper",
+        "description": "A popular fish with a nice red color.",
+        "location": [
+            "Ocean"
+        ],
+        "time": [
+            "6am \u2013 7pm"
+        ],
+        "season": [
+            "Summer",
+            "Fall \u2022\u00a0Winter with Rain Totem"
+        ],
+        "weather": [
+            "Rain"
+        ],
+        "difficulty": "40",
+        "size": "8-26",
+        "xp": [
+            "16",
+            "19",
+            "22",
+            "28"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "50",
+            "62",
+            "75",
+            "100"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Blue Discus",
+        "id": "blue_discus",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/e/ee/Blue_Discus.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Blue_Discus",
+        "description": "A brightly colored tropical fish that is popular in aquariums.",
+        "location": [
+            "Ginger Island"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "60",
+        "size": "2-10",
+        "xp": [
+            "23",
+            "26",
+            "29",
+            "35"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "120",
+            "150",
+            "180",
+            "240"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Rainbow Trout",
+        "id": "rainbow_trout",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/14/Rainbow_Trout.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Rainbow_Trout",
+        "description": "A freshwater trout with colorful markings.",
+        "location": [
+            "River",
+            "Mountain Lake"
+        ],
+        "time": [
+            "6am \u2013 7pm"
+        ],
+        "season": [
+            "Summer"
+        ],
+        "weather": [
+            "Sun"
+        ],
+        "difficulty": "45",
+        "size": "10-26",
+        "xp": [
+            "18",
+            "21",
+            "24",
+            "30"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "65",
+            "81",
+            "97",
+            "130"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Crimsonfish",
+        "id": "crimsonfish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/d/dc/Crimsonfish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Crimsonfish",
+        "description": "Lives deep in the ocean but likes to lay its eggs in the warm summer water.",
+        "location": [
+            "Ocean"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "Summer"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "95",
+        "size": "19-21",
+        "xp": [
+            "170",
+            "185",
+            "200",
+            "230"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "1,500",
+            "1,875",
+            "2,250",
+            "3,000"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Oyster",
+        "id": "oyster",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/54/Oyster.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Oyster",
+        "description": "Constantly filters water to find food. In the process, it removes dangerous toxins from the environment.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "40",
+            "50",
+            "60",
+            "80"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Ghostfish",
+        "id": "ghostfish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/72/Ghostfish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Ghostfish",
+        "description": "A pale, blind fish found in underground lakes.",
+        "location": [
+            "The Mines"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "50",
+        "size": "10-36",
+        "xp": [
+            "19",
+            "22",
+            "25",
+            "31"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "45",
+            "56",
+            "67",
+            "90"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Shrimp",
+        "id": "shrimp",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/9/91/Shrimp.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Shrimp",
+        "description": "A scavenger that feeds off the ocean floor. Widely prized for its meat.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "60"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Sea Cucumber",
+        "id": "sea_cucumber",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Sea_Cucumber",
+        "description": "A slippery, slimy creature found on the ocean floor.",
+        "location": [
+            "Ocean"
+        ],
+        "time": [
+            "6am \u2013 7pm"
+        ],
+        "season": [
+            "Fall",
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "40",
+        "size": "3-21",
+        "xp": [
+            "16",
+            "19",
+            "22",
+            "28"
+        ],
+        "prices": [
+            "75",
+            "93",
+            "112",
+            "150"
+        ],
+        "gifts": {
+            "love": [
+                "Willy"
+            ],
+            "neutral": [
+                "Demetrius",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Elliott",
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Sandfish",
+        "id": "sandfish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/b/bb/Sandfish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Sandfish",
+        "description": "It tries to hide using camouflage.",
+        "location": [
+            "The Desert"
+        ],
+        "time": [
+            "6am \u2013 8pm"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "65",
+        "size": "8-25",
+        "xp": [
+            "24",
+            "27",
+            "30",
+            "36"
+        ],
+        "energy": [
+            "13",
+            "18",
+            "23",
+            "33"
+        ],
+        "health": [
+            "5",
+            "8",
+            "10",
+            "14"
+        ],
+        "prices": [
+            "75",
+            "93",
+            "112",
+            "150"
+        ],
+        "gifts": {
+            "love": [
+                "Penny"
+            ],
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Glacierfish Jr.",
+        "id": "glacierfish_jr",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/d/db/Glacierfish_Jr..png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Glacierfish_Jr.",
+        "description": "The original Glacierfish had a son...",
+        "location": [
+            "Cindersap Forest"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "100",
+        "xp": [
+            "36",
+            "39",
+            "42",
+            "48"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "1,000",
+            "1,250",
+            "1,500",
+            "2,000"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Super Cucumber",
+        "id": "super_cucumber",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/d/d5/Super_Cucumber.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Super_Cucumber",
+        "description": "A rare, purple variety of sea cucumber.",
+        "location": [
+            "Ocean",
+            "Ginger Island"
+        ],
+        "time": [
+            "6pm \u2013 2am"
+        ],
+        "season": [
+            "Summer",
+            "Fall"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "80",
+        "size": "12-37",
+        "xp": [
+            "29",
+            "32",
+            "35",
+            "41"
+        ],
+        "energy": [
+            "125",
+            "175",
+            "225",
+            "325"
+        ],
+        "health": [
+            "56",
+            "78",
+            "101",
+            "146"
+        ],
+        "prices": [
+            "250",
+            "312",
+            "375",
+            "500"
+        ],
+        "gifts": {
+            "love": [
+                "Wizard"
+            ],
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Largemouth Bass",
+        "id": "largemouth_bass",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/11/Largemouth_Bass.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Largemouth_Bass",
+        "description": "A popular fish that lives in lakes.",
+        "location": [
+            "Mountain Lake",
+            "Wilderness Farm"
+        ],
+        "time": [
+            "6am \u2013 7pm"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "50",
+        "size": "11-31",
+        "xp": [
+            "19",
+            "22",
+            "25",
+            "31"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "100",
+            "125",
+            "150",
+            "200"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Ms. Angler",
+        "id": "ms_angler",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/b/bb/Ms._Angler.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Ms._Angler",
+        "description": "Uses a bioluminescent dangler to attract prey.",
+        "location": [
+            "Pelican Town"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "85",
+        "xp": [
+            "31",
+            "34",
+            "37",
+            "43"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "900",
+            "1,125",
+            "1,350",
+            "1,800"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Spook Fish",
+        "id": "spook_fish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/8c/Spook_Fish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Spook_Fish",
+        "description": "The huge eyes can detect the faint silhouettes of prey.",
+        "location": [
+            "Submarine at Night Market"
+        ],
+        "time": [
+            "Anytime during",
+            "Night Market",
+            "(5pm - 2am)"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "60",
+        "size": "8-20 [1]",
+        "xp": [
+            "23",
+            "26",
+            "29",
+            "35"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "220",
+            "275",
+            "330",
+            "440"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Herring",
+        "id": "herring",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/f/f1/Herring.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Herring",
+        "description": "A common ocean fish.",
+        "location": [
+            "Ocean"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "Spring",
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "25",
+        "size": "8-21",
+        "xp": [
+            "11",
+            "14",
+            "17",
+            "23"
+        ],
+        "energy": [
+            "13",
+            "18",
+            "23",
+            "33"
+        ],
+        "health": [
+            "5",
+            "8",
+            "10",
+            "14"
+        ],
+        "prices": [
+            "30",
+            "37",
+            "45",
+            "60"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Lobster",
+        "id": "lobster",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/9/9f/Lobster.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Lobster",
+        "description": "A large ocean-dwelling crustacean with a strong tail.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "120"
+        ],
+        "gifts": {
+            "love": [
+                "Elliott"
+            ],
+            "neutral": [
+                "Demetrius",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Stingray",
+        "id": "stingray",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/3a/Stingray.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Stingray",
+        "description": "Despite having a toxic stinger, these fish are shy and prefer to avoid humans.",
+        "location": [
+            "Pirate Cove"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "80",
+        "size": "18-61",
+        "xp": [
+            "29",
+            "32",
+            "35",
+            "41"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "180",
+            "225",
+            "270",
+            "360"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Lava Eel",
+        "id": "lava_eel",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/12/Lava_Eel.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Lava_Eel",
+        "description": "It can somehow survive in pools of red-hot lava.",
+        "location": [
+            "Level 100 of The Mines",
+            "Volcano Caldera"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "90",
+        "size": "31-33",
+        "xp": [
+            "33",
+            "36",
+            "39",
+            "45"
+        ],
+        "energy": [
+            "50",
+            "70",
+            "90",
+            "130"
+        ],
+        "health": [
+            "22",
+            "31",
+            "40",
+            "58"
+        ],
+        "prices": [
+            "700",
+            "875",
+            "1,050",
+            "1,400"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Son of Crimsonfish",
+        "id": "son_of_crimsonfish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/12/Son_of_Crimsonfish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Son_of_Crimsonfish",
+        "description": "He hatched in the warm summer water, and followed in the footsteps of his father.",
+        "location": [
+            "Ocean"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "95",
+        "xp": [
+            "34",
+            "37",
+            "40",
+            "46"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "1,500",
+            "1,875",
+            "2,250",
+            "3,000"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Angler",
+        "id": "angler",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/b/bf/Angler.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Angler",
+        "description": "Uses a bioluminescent dangler to attract prey.",
+        "location": [
+            "Pelican Town"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "Fall"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "85",
+        "size": "17-19",
+        "xp": [
+            "155",
+            "170",
+            "185",
+            "215"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "900",
+            "1,125",
+            "1,350",
+            "1,800"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Sunfish",
+        "id": "sunfish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/56/Sunfish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Sunfish",
+        "description": "A common river fish.",
+        "location": [
+            "River"
+        ],
+        "time": [
+            "6am \u2013 7pm"
+        ],
+        "season": [
+            "Spring",
+            "Summer"
+        ],
+        "weather": [
+            "Sun",
+            "Wind"
+        ],
+        "difficulty": "30",
+        "size": "5-16",
+        "xp": [
+            "13",
+            "16",
+            "19",
+            "25"
+        ],
+        "energy": [
+            "13",
+            "18",
+            "23",
+            "33"
+        ],
+        "health": [
+            "5",
+            "8",
+            "10",
+            "14"
+        ],
+        "prices": [
+            "30",
+            "37",
+            "45",
+            "60"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Stonefish",
+        "id": "stonefish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/03/Stonefish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Stonefish",
+        "description": "A bizarre fish that's shaped like a brick.",
+        "location": [
+            "Level 20 of The Mines"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "65",
+        "size": "14-16",
+        "xp": [
+            "24",
+            "27",
+            "30",
+            "36"
+        ],
+        "prices": [
+            "300",
+            "375",
+            "450",
+            "600"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Red Mullet",
+        "id": "red_mullet",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/f/f2/Red_Mullet.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Red_Mullet",
+        "description": "Long ago these were kept as pets.",
+        "location": [
+            "Ocean"
+        ],
+        "time": [
+            "6am \u2013 7pm"
+        ],
+        "season": [
+            "Summer",
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "55",
+        "size": "8-23",
+        "xp": [
+            "21",
+            "24",
+            "27",
+            "33"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "75",
+            "93",
+            "112",
+            "150"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Legend",
+        "id": "legend",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/10/Legend.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Legend",
+        "description": "The king of all fish! They said he'd never be caught.",
+        "location": [
+            "Mountain Lake"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "Spring"
+        ],
+        "weather": [
+            "Rain"
+        ],
+        "difficulty": "110",
+        "size": "49-51",
+        "xp": [
+            "195",
+            "210",
+            "225",
+            "255"
+        ],
+        "energy": [
+            "500",
+            "700",
+            "900",
+            "1300"
+        ],
+        "health": [
+            "225",
+            "315",
+            "405",
+            "585"
+        ],
+        "prices": [
+            "5,000",
+            "6,250",
+            "7,500",
+            "10,000"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Sardine",
+        "id": "sardine",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/04/Sardine.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Sardine",
+        "description": "A common ocean fish.",
+        "location": [
+            "Ocean"
+        ],
+        "time": [
+            "6am \u2013 7pm"
+        ],
+        "season": [
+            "Spring",
+            "Fall",
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "30",
+        "size": "1-13",
+        "xp": [
+            "13",
+            "16",
+            "19",
+            "25"
+        ],
+        "energy": [
+            "13",
+            "18",
+            "23",
+            "33"
+        ],
+        "health": [
+            "5",
+            "8",
+            "10",
+            "14"
+        ],
+        "prices": [
+            "40",
+            "50",
+            "60",
+            "80"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Anchovy",
+        "id": "anchovy",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/79/Anchovy.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Anchovy",
+        "description": "A small silver fish found in the ocean.",
+        "location": [
+            "Ocean"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "Spring",
+            "Fall"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "30",
+        "size": "1-17",
+        "xp": [
+            "13",
+            "16",
+            "19",
+            "25"
+        ],
+        "energy": [
+            "13",
+            "18",
+            "23",
+            "33"
+        ],
+        "health": [
+            "5",
+            "8",
+            "10",
+            "14"
+        ],
+        "prices": [
+            "30",
+            "37",
+            "45",
+            "60"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Clam",
+        "id": "clam",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Clam",
+        "description": "Someone lived here once.",
+        "season": [
+            "All"
+        ]
+    },
+    {
+        "name": "Lionfish",
+        "id": "lionfish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/b/bb/Lionfish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Lionfish",
+        "description": "An aggressive, predatory fish with venomous spines.",
+        "location": [
+            "Ginger Island"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "50",
+        "size": "3-13",
+        "xp": [
+            "19",
+            "22",
+            "25",
+            "31"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "100",
+            "125",
+            "150",
+            "200"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Dorado",
+        "id": "dorado",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/18/Dorado.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Dorado",
+        "description": "A fierce carnivore with brilliant orange scales.",
+        "location": [
+            "Forest River"
+        ],
+        "time": [
+            "6am \u2013 7pm"
+        ],
+        "season": [
+            "Summer"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "78",
+        "size": "24-33",
+        "xp": [
+            "29",
+            "32",
+            "35",
+            "41"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "100",
+            "125",
+            "150",
+            "200"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Glacierfish",
+        "id": "glacierfish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/f/fd/Glacierfish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Glacierfish",
+        "description": "Builds a nest on the underside of glaciers.",
+        "location": [
+            "Cindersap Forest"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "100",
+        "size": "26-28",
+        "xp": [
+            "180",
+            "195",
+            "210",
+            "240"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "1,000",
+            "1,250",
+            "1,500",
+            "2,000"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Ice Pip",
+        "id": "ice_pip",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/6/63/Ice_Pip.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Ice_Pip",
+        "description": "A rare fish that thrives in extremely cold conditions.",
+        "location": [
+            "The Mines, Level 60"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "85",
+        "size": "7-9",
+        "xp": [
+            "31",
+            "34",
+            "37",
+            "43"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "500",
+            "625",
+            "750",
+            "1,000"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Pufferfish",
+        "id": "pufferfish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/b/ba/Pufferfish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Pufferfish",
+        "description": "Inflates when threatened.",
+        "location": [
+            "Ocean",
+            "Ginger Island"
+        ],
+        "time": [
+            "12pm \u2013 4pm"
+        ],
+        "season": [
+            "Summer"
+        ],
+        "weather": [
+            "Sun"
+        ],
+        "difficulty": "80",
+        "size": "1-37",
+        "xp": [
+            "29",
+            "32",
+            "35",
+            "41"
+        ],
+        "prices": [
+            "200",
+            "250",
+            "300",
+            "400"
+        ],
+        "gifts": {
+            "love": [
+                "Abigail"
+            ],
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Tuna",
+        "id": "tuna",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/c/c5/Tuna.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Tuna",
+        "description": "A large fish that lives in the ocean.",
+        "location": [
+            "Ocean",
+            "Ginger Island"
+        ],
+        "time": [
+            "6am \u2013 7pm"
+        ],
+        "season": [
+            "Summer",
+            "Winter"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "70",
+        "size": "12-61",
+        "xp": [
+            "26",
+            "29",
+            "32",
+            "38"
+        ],
+        "energy": [
+            "38",
+            "53",
+            "68",
+            "98"
+        ],
+        "health": [
+            "17",
+            "23",
+            "30",
+            "44"
+        ],
+        "prices": [
+            "100",
+            "125",
+            "150",
+            "200"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Crayfish",
+        "id": "crayfish",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/53/Crayfish.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Crayfish",
+        "description": "A small freshwater relative of the lobster.",
+        "season": [
+            "All"
+        ],
+        "prices": [
+            "75"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Bream",
+        "id": "bream",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/82/Bream.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Bream",
+        "description": "A fairly common river fish that becomes active at night.",
+        "location": [
+            "River"
+        ],
+        "time": [
+            "6pm \u2013 2am"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "35",
+        "size": "12-31",
+        "xp": [
+            "14",
+            "17",
+            "20",
+            "26"
+        ],
+        "energy": [
+            "13",
+            "18",
+            "23",
+            "33"
+        ],
+        "health": [
+            "5",
+            "8",
+            "10",
+            "14"
+        ],
+        "prices": [
+            "45",
+            "56",
+            "67",
+            "90"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    },
+    {
+        "name": "Mutant Carp",
+        "id": "mutant_carp",
+        "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/c/cb/Mutant_Carp.png",
+        "wiki_url": "https://www.stardewvalleywiki.com/Mutant_Carp",
+        "description": "The strange waters of the sewer turned this carp into a monstrosity.",
+        "location": [
+            "The Sewers"
+        ],
+        "time": [
+            "Any"
+        ],
+        "season": [
+            "All"
+        ],
+        "weather": [
+            "Any"
+        ],
+        "difficulty": "80",
+        "size": "35-37",
+        "xp": [
+            "145",
+            "160",
+            "175",
+            "205"
+        ],
+        "energy": [
+            "25",
+            "35",
+            "45",
+            "65"
+        ],
+        "health": [
+            "11",
+            "15",
+            "20",
+            "29"
+        ],
+        "prices": [
+            "1,000",
+            "1,250",
+            "1,500",
+            "2,000"
+        ],
+        "gifts": {
+            "neutral": [
+                "Demetrius",
+                "Elliott",
+                "Leo",
+                "Linus",
+                "Pam",
+                "Sebastian",
+                "Willy"
+            ],
+            "dislike": [
+                "Abigail",
+                "Alex",
+                "Caroline",
+                "Clint",
+                "Dwarf",
+                "Emily",
+                "George",
+                "Gus",
+                "Harvey",
+                "Jas",
+                "Jodi",
+                "Kent",
+                "Krobus",
+                "Leah",
+                "Lewis",
+                "Marnie",
+                "Maru",
+                "Penny",
+                "Robin",
+                "Sam",
+                "Sandy",
+                "Shane",
+                "Vincent",
+                "Wizard"
+            ],
+            "hate": [
+                "Evelyn",
+                "Haley",
+                "Pierre"
+            ]
+        }
+    }
+]
