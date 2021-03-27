@@ -18,7 +18,7 @@ const app = express();
 
 const limiter = rateLimit({
   windowMs: 15 * 60 * 1000,
-  max: 2000,
+  max: 200,
 });
 
 app.use(cors());
