@@ -138,5 +138,5 @@ for bachelor in bachelors:
     all_villagers.append(parse_bachelor_villager(bachelor))
 for villager in villagers:
     all_villagers.append(parse_villager(villager))
-with open("villagers.json", "w") as f:
+with open("../data/villagers.json", "w") as f:
     f.write(json.dumps(all_villagers))

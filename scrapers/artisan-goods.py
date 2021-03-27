@@ -99,7 +99,7 @@ def parse_ingredient(string):
 artisan_goods = {"Honey","Beer","Cheese","Goat_Cheese","Mead","Pale_Ale","Wine","Cheese","Goat_Cheese","Beer","Coffee","Green_Tea","Juice","Mead","Pale_Ale","Wine","Cloth","Dinosaur_Mayonnaise","Duck_Mayonnaise","Mayonnaise","Void_Mayonnaise","Oil","Truffle_Oil","Aged_Roe","Caviar","Jellies_and_Pickles","Maple_Syrup","Oak_Resin","Pine_Tar","Piña_Colada"}
 data = list(map(lambda a: parse_artisan_goods(a), artisan_goods))
 
-with open("artisan-goods.json", "w") as f:
+with open("../data/artisan-goods.json", "w") as f:
     f.write(json.dumps(data))
 
 

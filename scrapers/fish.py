@@ -78,5 +78,5 @@ print(fishes)
 data = []
 for fish in fishes:
     data.append(parse_fish(fish))
-with open("fish.json", "w") as f:
+with open("../data/fish.json", "w") as f:
     f.write(json.dumps(data))

@@ -67,7 +67,7 @@ def parse_ingredients(string):
 
 data = parse_craftables()
 
-with open("craftables.json", "w") as f:
+with open("../data/craftables.json", "w") as f:
     f.write(json.dumps(data))
 
 

@@ -82,5 +82,5 @@ crops = {"Blue_Jazz","Cauliflower","Coffee_Bean","Garlic","Green_Bean","Kale","P
 
 data = list(map(lambda a: parse_crops(a), crops))
 
-with open("crops.json", "w") as f:
+with open("../data/crops.json", "w") as f:
     f.write(json.dumps(data))

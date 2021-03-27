@@ -10,7 +10,7 @@ def parse_bundles():
 
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    data = {"rooms": []}
+    data = []
 
     tables = soup.find_all("table", "wikitable")
     room = {}
@@ -21,11 +21,11 @@ def parse_bundles():
         print(title)
         if "Reward" in table.find("tr").text.strip():
             if room != {}:
-                data["rooms"].append(room)
+                data.append(room)
                 room = {}
             name = table.find_previous_sibling("h3").text.strip()
-            data["name"] = name
-            data["id"] = ''.join(e for e in name.replace(" ", "_") if (e.isalnum() or e == "_")).lower()
+            room["name"] = name
+            room["id"] = ''.join(e for e in name.replace(" ", "_") if (e.isalnum() or e == "_")).lower()
 
             room["bundles"] = []
             room["reward"] = table.find("td").text.strip()
@@ -56,7 +56,7 @@ def parse_bundles():
                 
             bundle["items"] = items
             room["bundles"].append(bundle)
-    data["rooms"].append(room)
+    data.append(room)
     return data
 
 def get_item_quantity(item):
@@ -90,5 +90,5 @@ def get_item_quantity(item):
             }
 
 data = parse_bundles()
-with open("bundles.json", "w") as f:
+with open("../data/bundles.json", "w") as f:
     f.write(json.dumps(data))

@@ -1,955 +1,953 @@
-{
-    "rooms": [
-        {
-            "name": "Crafts Room",
-            "bundles": [
-                {
-                    "title": "Spring Foraging Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/32px-Bundle_Green.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/8a/Spring_Foraging_Bundle.png",
-                    "slots": 4,
-                    "reward": {
-                        "name": "Spring Seeds",
-                        "quantity": 30
-                    },
-                    "items": [
-                        {
-                            "name": "Wild Horseradish",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Daffodil",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Leek",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Dandelion",
-                            "quantity": 1
-                        }
-                    ]
+[
+    {
+        "name": "Crafts Room",
+        "bundles": [
+            {
+                "title": "Spring Foraging Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/32px-Bundle_Green.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/8a/Spring_Foraging_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Spring Seeds",
+                    "quantity": 30
                 },
-                {
-                    "title": "Summer Foraging Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/f/fd/Summer_Foraging_Bundle.png",
-                    "slots": 3,
-                    "reward": {
-                        "name": "Summer Seeds",
-                        "quantity": 30
-                    },
-                    "items": [
-                        {
-                            "name": "Grape",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Spice Berry",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Sweet Pea",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "Fall Foraging Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/3d/Fall_Foraging_Bundle.png",
-                    "slots": 4,
-                    "reward": {
-                        "name": "Fall Seeds",
-                        "quantity": 30
-                    },
-                    "items": [
-                        {
-                            "name": "Common Mushroom",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Wild Plum",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Hazelnut",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Blackberry",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "Winter Foraging Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/17/Winter_Foraging_Bundle.png",
-                    "slots": 4,
-                    "reward": {
-                        "name": "Winter Seeds",
-                        "quantity": 30
-                    },
-                    "items": [
-                        {
-                            "name": "Winter Root",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Crystal Fruit",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Snow Yam",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Crocus",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "Construction Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/7a/Construction_Bundle.png",
-                    "slots": 4,
-                    "reward": {
-                        "name": "Charcoal Kiln",
+                "items": [
+                    {
+                        "name": "Wild Horseradish",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "Wood",
-                            "quantity": 99
-                        },
-                        {
-                            "name": "Wood",
-                            "quantity": 99
-                        },
-                        {
-                            "name": "Stone",
-                            "quantity": 99
-                        },
-                        {
-                            "name": "Hardwood",
-                            "quantity": 10
-                        }
-                    ]
-                },
-                {
-                    "title": "Exotic Foraging Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/5a/Exotic_Foraging_Bundle.png",
-                    "slots": 5,
-                    "reward": {
-                        "name": "Autumn's Bounty",
-                        "quantity": 5
-                    },
-                    "items": [
-                        {
-                            "name": "Coconut",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Cactus Fruit",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Cave Carrot",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Red Mushroom",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Purple Mushroom",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Maple Syrup",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Oak Resin",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Pine Tar",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Morel",
-                            "quantity": 1
-                        }
-                    ]
-                }
-            ],
-            "reward": "Bridge Repair"
-        },
-        {
-            "name": "Pantry",
-            "bundles": [
-                {
-                    "title": "Spring Crops Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/32px-Bundle_Green.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/51/Spring_Crops_Bundle.png",
-                    "slots": 4,
-                    "reward": {
-                        "name": "Speed-Gro",
-                        "quantity": 20
-                    },
-                    "items": [
-                        {
-                            "name": "Parsnip",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Green Bean",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Cauliflower",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Potato",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "Summer Crops Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/2/27/Summer_Crops_Bundle.png",
-                    "slots": 4,
-                    "reward": {
-                        "name": "Quality Sprinkler",
+                    {
+                        "name": "Daffodil",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "Tomato",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Hot Pepper",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Blueberry",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Melon",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "Fall Crops Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/0d/Fall_Crops_Bundle.png",
-                    "slots": 4,
-                    "reward": {
-                        "name": "Bee House",
+                    {
+                        "name": "Leek",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "Corn",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Eggplant",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Pumpkin",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Yam",
-                            "quantity": 1
-                        }
-                    ]
+                    {
+                        "name": "Dandelion",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Summer Foraging Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/f/fd/Summer_Foraging_Bundle.png",
+                "slots": 3,
+                "reward": {
+                    "name": "Summer Seeds",
+                    "quantity": 30
                 },
-                {
-                    "title": "Quality Crops Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/86/Quality_Crops_Bundle.png",
-                    "slots": 3,
-                    "reward": {
-                        "name": "Preserves Jar",
+                "items": [
+                    {
+                        "name": "Grape",
                         "quantity": 1
                     },
-                    "items": []
-                },
-                {
-                    "title": "Animal Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/52/Animal_Bundle.png",
-                    "slots": 5,
-                    "reward": {
-                        "name": "Cheese Press",
+                    {
+                        "name": "Spice Berry",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "Large Milk",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Large Egg\u00a0(Brown)",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Large Egg",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Large Goat Milk",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Wool",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Duck Egg",
-                            "quantity": 1
-                        }
-                    ]
+                    {
+                        "name": "Sweet Pea",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Fall Foraging Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/3d/Fall_Foraging_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Fall Seeds",
+                    "quantity": 30
                 },
-                {
-                    "title": "Artisan Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/7a/Artisan_Bundle.png",
-                    "slots": 6,
-                    "reward": {
-                        "name": "Keg",
+                "items": [
+                    {
+                        "name": "Common Mushroom",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "Truffle Oil",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Cloth",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Goat Cheese",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Cheese",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Honey",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Jelly",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Apple",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Apricot",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Orange",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Peach",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Pomegranate",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Cherry",
-                            "quantity": 1
-                        }
-                    ]
-                }
-            ],
-            "reward": "Greenhouse"
-        },
-        {
-            "name": "Fish Tank",
-            "bundles": [
-                {
-                    "title": "River Fish Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/c/c6/River_Fish_Bundle.png",
-                    "slots": 4,
-                    "reward": {
-                        "name": "Bait",
-                        "quantity": 30
-                    },
-                    "items": [
-                        {
-                            "name": "Sunfish",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Catfish",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Shad",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Tiger Trout",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "Lake Fish Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/32px-Bundle_Green.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/4/46/Lake_Fish_Bundle.png",
-                    "slots": 4,
-                    "reward": {
-                        "name": "Dressed Spinner",
+                    {
+                        "name": "Wild Plum",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "Largemouth Bass",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Carp",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Bullhead",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Sturgeon",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "Ocean Fish Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Bundle_Blue.png/32px-Bundle_Blue.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/ac/Ocean_Fish_Bundle.png",
-                    "slots": 4,
-                    "reward": {
-                        "name": "Warp Totem: Beach",
-                        "quantity": 5
-                    },
-                    "items": [
-                        {
-                            "name": "Sardine",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Tuna",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Red Snapper",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Tilapia",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "Night Fishing Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/a7/Night_Fishing_Bundle.png",
-                    "slots": 3,
-                    "reward": {
-                        "name": "Small Glow Ring",
+                    {
+                        "name": "Hazelnut",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "Walleye",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Bream",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Eel",
-                            "quantity": 1
-                        }
-                    ]
+                    {
+                        "name": "Blackberry",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Winter Foraging Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/17/Winter_Foraging_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Winter Seeds",
+                    "quantity": 30
                 },
-                {
-                    "title": "Crab Pot Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/2/22/Crab_Pot_Bundle.png",
-                    "slots": 5,
-                    "reward": {
-                        "name": "Crab Pot",
-                        "quantity": 3
-                    },
-                    "items": [
-                        {
-                            "name": "Lobster",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Crayfish",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Crab",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Cockle",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Mussel",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Shrimp",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Snail",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Periwinkle",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Oyster",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Clam",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "Specialty Fish Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/03/Specialty_Fish_Bundle.png",
-                    "slots": 4,
-                    "reward": {
-                        "name": "Dish o' The Sea",
-                        "quantity": 5
-                    },
-                    "items": [
-                        {
-                            "name": "Pufferfish",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Ghostfish",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Sandfish",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Woodskip",
-                            "quantity": 1
-                        }
-                    ]
-                }
-            ],
-            "reward": "Glittering Boulder Removed"
-        },
-        {
-            "name": "Boiler Room",
-            "bundles": [
-                {
-                    "title": "Blacksmith's Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/c/c8/Blacksmith_Bundle.png",
-                    "slots": 3,
-                    "reward": {
-                        "name": "Furnace",
+                "items": [
+                    {
+                        "name": "Winter Root",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "Copper Bar",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Iron Bar",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Gold Bar",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "Geologist's Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/6/68/Geologist%27s_Bundle.png",
-                    "slots": 4,
-                    "reward": {
-                        "name": "Omni Geode",
-                        "quantity": 5
-                    },
-                    "items": [
-                        {
-                            "name": "Quartz",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Earth Crystal",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Frozen Tear",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Fire Quartz",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "Adventurer's Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/5e/Adventurer%27s_Bundle.png",
-                    "slots": 2,
-                    "reward": {
-                        "name": "Small Magnet Ring",
+                    {
+                        "name": "Crystal Fruit",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "Slime",
-                            "quantity": 99
-                        },
-                        {
-                            "name": "Bat Wing",
-                            "quantity": 10
-                        },
-                        {
-                            "name": "Solar Essence",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Void Essence",
-                            "quantity": 1
-                        }
-                    ]
-                }
-            ],
-            "reward": "Minecarts Repaired"
-        },
-        {
-            "name": "Bulletin Board",
-            "bundles": [
-                {
-                    "title": "Chef's Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/e/ea/Chef%27s_Bundle.png",
-                    "slots": 6,
-                    "reward": {
-                        "name": "Pink Cake",
-                        "quantity": 3
-                    },
-                    "items": [
-                        {
-                            "name": "Maple Syrup",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Fiddlehead Fern",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Truffle",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Poppy",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Maki Roll",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Fried Egg",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "Dye Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/a5/Dye_Bundle.png",
-                    "slots": 6,
-                    "reward": {
-                        "name": "Seed Maker",
+                    {
+                        "name": "Snow Yam",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "Red Mushroom",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Sea Urchin",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Sunflower",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Duck Feather",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Aquamarine",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Red Cabbage",
-                            "quantity": 1
-                        }
-                    ]
+                    {
+                        "name": "Crocus",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Construction Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/7a/Construction_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Charcoal Kiln",
+                    "quantity": 1
                 },
-                {
-                    "title": "Field Research Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Bundle_Blue.png/32px-Bundle_Blue.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/86/Field_Research_Bundle.png",
-                    "slots": 4,
-                    "reward": {
-                        "name": "Recycling Machine",
+                "items": [
+                    {
+                        "name": "Wood",
+                        "quantity": 99
+                    },
+                    {
+                        "name": "Wood",
+                        "quantity": 99
+                    },
+                    {
+                        "name": "Stone",
+                        "quantity": 99
+                    },
+                    {
+                        "name": "Hardwood",
+                        "quantity": 10
+                    }
+                ]
+            },
+            {
+                "title": "Exotic Foraging Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/5a/Exotic_Foraging_Bundle.png",
+                "slots": 5,
+                "reward": {
+                    "name": "Autumn's Bounty",
+                    "quantity": 5
+                },
+                "items": [
+                    {
+                        "name": "Coconut",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "Purple Mushroom",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Nautilus Shell",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Chub",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Frozen Geode",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "Fodder Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/32/Fodder_Bundle.png",
-                    "slots": 3,
-                    "reward": {
-                        "name": "Heater",
+                    {
+                        "name": "Cactus Fruit",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "Wheat",
-                            "quantity": 10
-                        },
-                        {
-                            "name": "Hay",
-                            "quantity": 10
-                        },
-                        {
-                            "name": "Apple",
-                            "quantity": 3
-                        }
-                    ]
+                    {
+                        "name": "Cave Carrot",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Red Mushroom",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Purple Mushroom",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Maple Syrup",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Oak Resin",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Pine Tar",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Morel",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ],
+        "reward": "Bridge Repair"
+    },
+    {
+        "name": "Pantry",
+        "bundles": [
+            {
+                "title": "Spring Crops Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/32px-Bundle_Green.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/51/Spring_Crops_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Speed-Gro",
+                    "quantity": 20
                 },
-                {
-                    "title": "Enchanter's Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/6/69/Enchanter%27s_Bundle.png",
-                    "slots": 4,
-                    "reward": {
+                "items": [
+                    {
+                        "name": "Parsnip",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Green Bean",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Cauliflower",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Potato",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Summer Crops Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/2/27/Summer_Crops_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Quality Sprinkler",
+                    "quantity": 1
+                },
+                "items": [
+                    {
+                        "name": "Tomato",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Hot Pepper",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Blueberry",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Melon",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Fall Crops Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/0d/Fall_Crops_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Bee House",
+                    "quantity": 1
+                },
+                "items": [
+                    {
+                        "name": "Corn",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Eggplant",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Pumpkin",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Yam",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Quality Crops Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/86/Quality_Crops_Bundle.png",
+                "slots": 3,
+                "reward": {
+                    "name": "Preserves Jar",
+                    "quantity": 1
+                },
+                "items": []
+            },
+            {
+                "title": "Animal Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/52/Animal_Bundle.png",
+                "slots": 5,
+                "reward": {
+                    "name": "Cheese Press",
+                    "quantity": 1
+                },
+                "items": [
+                    {
+                        "name": "Large Milk",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Large Egg\u00a0(Brown)",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Large Egg",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Large Goat Milk",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Wool",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Duck Egg",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Artisan Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/7/7a/Artisan_Bundle.png",
+                "slots": 6,
+                "reward": {
+                    "name": "Keg",
+                    "quantity": 1
+                },
+                "items": [
+                    {
+                        "name": "Truffle Oil",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Cloth",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Goat Cheese",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Cheese",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Honey",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Jelly",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Apple",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Apricot",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Orange",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Peach",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Pomegranate",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Cherry",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ],
+        "reward": "Greenhouse"
+    },
+    {
+        "name": "Fish Tank",
+        "bundles": [
+            {
+                "title": "River Fish Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/c/c6/River_Fish_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Bait",
+                    "quantity": 30
+                },
+                "items": [
+                    {
+                        "name": "Sunfish",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Catfish",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Shad",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Tiger Trout",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Lake Fish Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/b/b3/Bundle_Green.png/32px-Bundle_Green.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/4/46/Lake_Fish_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Dressed Spinner",
+                    "quantity": 1
+                },
+                "items": [
+                    {
+                        "name": "Largemouth Bass",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Carp",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Bullhead",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Sturgeon",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Ocean Fish Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Bundle_Blue.png/32px-Bundle_Blue.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/ac/Ocean_Fish_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Warp Totem: Beach",
+                    "quantity": 5
+                },
+                "items": [
+                    {
+                        "name": "Sardine",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Tuna",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Red Snapper",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Tilapia",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Night Fishing Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/a7/Night_Fishing_Bundle.png",
+                "slots": 3,
+                "reward": {
+                    "name": "Small Glow Ring",
+                    "quantity": 1
+                },
+                "items": [
+                    {
+                        "name": "Walleye",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Bream",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Eel",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Crab Pot Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/2/22/Crab_Pot_Bundle.png",
+                "slots": 5,
+                "reward": {
+                    "name": "Crab Pot",
+                    "quantity": 3
+                },
+                "items": [
+                    {
+                        "name": "Lobster",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Crayfish",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Crab",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Cockle",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Mussel",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Shrimp",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Snail",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Periwinkle",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Oyster",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Clam",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Specialty Fish Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/0/03/Specialty_Fish_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Dish o' The Sea",
+                    "quantity": 5
+                },
+                "items": [
+                    {
+                        "name": "Pufferfish",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Ghostfish",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Sandfish",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Woodskip",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ],
+        "reward": "Glittering Boulder Removed"
+    },
+    {
+        "name": "Boiler Room",
+        "bundles": [
+            {
+                "title": "Blacksmith's Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/c/c8/Blacksmith_Bundle.png",
+                "slots": 3,
+                "reward": {
+                    "name": "Furnace",
+                    "quantity": 1
+                },
+                "items": [
+                    {
+                        "name": "Copper Bar",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Iron Bar",
+                        "quantity": 1
+                    },
+                    {
                         "name": "Gold Bar",
-                        "quantity": 5
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Geologist's Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/6/68/Geologist%27s_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Omni Geode",
+                    "quantity": 5
+                },
+                "items": [
+                    {
+                        "name": "Quartz",
+                        "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "Oak Resin",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Wine",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Rabbit's Foot",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Pomegranate",
-                            "quantity": 1
-                        }
-                    ]
-                }
-            ],
-            "reward": "Friendship \u2661"
-        },
-        {
-            "name": "Vault",
-            "bundles": [
-                {
-                    "title": "2,500 Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/e/e2/2500_Bundle.png",
-                    "slots": 2,
-                    "reward": {
-                        "name": "Chocolate Cake",
+                    {
+                        "name": "Earth Crystal",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Frozen Tear",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Fire Quartz",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Adventurer's Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/5/5e/Adventurer%27s_Bundle.png",
+                "slots": 2,
+                "reward": {
+                    "name": "Small Magnet Ring",
+                    "quantity": 1
+                },
+                "items": [
+                    {
+                        "name": "Slime",
+                        "quantity": 99
+                    },
+                    {
+                        "name": "Bat Wing",
+                        "quantity": 10
+                    },
+                    {
+                        "name": "Solar Essence",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Void Essence",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ],
+        "reward": "Minecarts Repaired"
+    },
+    {
+        "name": "Bulletin Board",
+        "bundles": [
+            {
+                "title": "Chef's Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/e/ea/Chef%27s_Bundle.png",
+                "slots": 6,
+                "reward": {
+                    "name": "Pink Cake",
+                    "quantity": 3
+                },
+                "items": [
+                    {
+                        "name": "Maple Syrup",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Fiddlehead Fern",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Truffle",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Poppy",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Maki Roll",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Fried Egg",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Dye Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Bundle_Teal.png/32px-Bundle_Teal.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/a5/Dye_Bundle.png",
+                "slots": 6,
+                "reward": {
+                    "name": "Seed Maker",
+                    "quantity": 1
+                },
+                "items": [
+                    {
+                        "name": "Red Mushroom",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Sea Urchin",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Sunflower",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Duck Feather",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Aquamarine",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Red Cabbage",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Field Research Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Bundle_Blue.png/32px-Bundle_Blue.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/8/86/Field_Research_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Recycling Machine",
+                    "quantity": 1
+                },
+                "items": [
+                    {
+                        "name": "Purple Mushroom",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Nautilus Shell",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Chub",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Frozen Geode",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "Fodder Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/3/32/Fodder_Bundle.png",
+                "slots": 3,
+                "reward": {
+                    "name": "Heater",
+                    "quantity": 1
+                },
+                "items": [
+                    {
+                        "name": "Wheat",
+                        "quantity": 10
+                    },
+                    {
+                        "name": "Hay",
+                        "quantity": 10
+                    },
+                    {
+                        "name": "Apple",
                         "quantity": 3
-                    },
-                    "items": [
-                        {
-                            "name": "2,500g",
-                            "quantity": 1
-                        }
-                    ]
+                    }
+                ]
+            },
+            {
+                "title": "Enchanter's Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/6/69/Enchanter%27s_Bundle.png",
+                "slots": 4,
+                "reward": {
+                    "name": "Gold Bar",
+                    "quantity": 5
                 },
-                {
-                    "title": "5,000 Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/17/5000_Bundle.png",
-                    "slots": 2,
-                    "reward": {
-                        "name": "Quality Fertilizer",
-                        "quantity": 30
-                    },
-                    "items": [
-                        {
-                            "name": "5,000g",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "10,000 Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/11/10000_Bundle.png",
-                    "slots": 2,
-                    "reward": {
-                        "name": "Lightning Rod",
+                "items": [
+                    {
+                        "name": "Oak Resin",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "10,000g",
-                            "quantity": 1
-                        }
-                    ]
-                },
-                {
-                    "title": "25,000 Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/a7/25000_Bundle.png",
-                    "slots": 2,
-                    "reward": {
-                        "name": "Crystalarium",
+                    {
+                        "name": "Wine",
                         "quantity": 1
                     },
-                    "items": [
-                        {
-                            "name": "25,000g",
-                            "quantity": 1
-                        }
-                    ]
-                }
-            ],
-            "reward": "Bus Repair"
-        },
-        {
-            "name": "Abandoned JojaMart",
-            "bundles": [
-                {
-                    "title": "The Missing Bundle",
-                    "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
-                    "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/2/24/The_Missing_Bundle.png",
-                    "slots": 5,
-                    "items": [
-                        {
-                            "name": "Wine (any)",
-                            "quantity": 1,
-                            "quality": "Silver or better"
-                        },
-                        {
-                            "name": "Wine (any)",
-                            "quantity": 1,
-                            "quality": "Silver or better"
-                        },
-                        {
-                            "name": "Dinosaur Mayonnaise",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Prismatic Shard",
-                            "quantity": 1
-                        },
-                        {
-                            "name": "Ancient Fruit",
-                            "quantity": 5,
-                            "quality": "Gold"
-                        },
-                        {
-                            "name": "Ancient Fruit",
-                            "quantity": 5,
-                            "quality": "Gold"
-                        },
-                        {
-                            "name": "Void Salmon",
-                            "quantity": 1,
-                            "quality": "Gold or Iridium"
-                        },
-                        {
-                            "name": "Void Salmon",
-                            "quantity": 1,
-                            "quality": "Gold or Iridium"
-                        },
-                        {
-                            "name": "Caviar",
-                            "quantity": 1
-                        }
-                    ]
-                }
-            ],
-            "reward": "Movie Theater"
-        }
-    ]
-}
+                    {
+                        "name": "Rabbit's Foot",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Pomegranate",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ],
+        "reward": "Friendship \u2661"
+    },
+    {
+        "name": "Vault",
+        "bundles": [
+            {
+                "title": "2,500 Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Bundle_Red.png/32px-Bundle_Red.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/e/e2/2500_Bundle.png",
+                "slots": 2,
+                "reward": {
+                    "name": "Chocolate Cake",
+                    "quantity": 3
+                },
+                "items": [
+                    {
+                        "name": "2,500g",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "5,000 Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/9/95/Bundle_Orange.png/32px-Bundle_Orange.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/17/5000_Bundle.png",
+                "slots": 2,
+                "reward": {
+                    "name": "Quality Fertilizer",
+                    "quantity": 30
+                },
+                "items": [
+                    {
+                        "name": "5,000g",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "10,000 Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/2/2b/Bundle_Yellow.png/32px-Bundle_Yellow.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/1/11/10000_Bundle.png",
+                "slots": 2,
+                "reward": {
+                    "name": "Lightning Rod",
+                    "quantity": 1
+                },
+                "items": [
+                    {
+                        "name": "10,000g",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "title": "25,000 Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/a/a7/25000_Bundle.png",
+                "slots": 2,
+                "reward": {
+                    "name": "Crystalarium",
+                    "quantity": 1
+                },
+                "items": [
+                    {
+                        "name": "25,000g",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ],
+        "reward": "Bus Repair"
+    },
+    {
+        "name": "Abandoned JojaMart",
+        "bundles": [
+            {
+                "title": "The Missing Bundle",
+                "image_url": "https://www.stardewvalleywiki.com/mediawiki/images/thumb/a/a1/Bundle_Purple.png/32px-Bundle_Purple.png",
+                "cover_image_url": "https://www.stardewvalleywiki.com/mediawiki/images/2/24/The_Missing_Bundle.png",
+                "slots": 5,
+                "items": [
+                    {
+                        "name": "Wine (any)",
+                        "quantity": 1,
+                        "quality": "Silver or better"
+                    },
+                    {
+                        "name": "Wine (any)",
+                        "quantity": 1,
+                        "quality": "Silver or better"
+                    },
+                    {
+                        "name": "Dinosaur Mayonnaise",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Prismatic Shard",
+                        "quantity": 1
+                    },
+                    {
+                        "name": "Ancient Fruit",
+                        "quantity": 5,
+                        "quality": "Gold"
+                    },
+                    {
+                        "name": "Ancient Fruit",
+                        "quantity": 5,
+                        "quality": "Gold"
+                    },
+                    {
+                        "name": "Void Salmon",
+                        "quantity": 1,
+                        "quality": "Gold or Iridium"
+                    },
+                    {
+                        "name": "Void Salmon",
+                        "quantity": 1,
+                        "quality": "Gold or Iridium"
+                    },
+                    {
+                        "name": "Caviar",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ],
+        "reward": "Movie Theater"
+    }
+]
