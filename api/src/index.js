@@ -1,0 +1,8 @@
+const app = require('./stardew-app');
+
+require('dotenv').config();
+
+const port = process.env.PORT || 5000;
+app.listen(port, () => {
+  console.log(`Listening at http://localhost:${port}`);
+});
